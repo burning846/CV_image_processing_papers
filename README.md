@@ -30,11 +30,12 @@
 ### Image Inpainting
 
 | nickname    | paper name                                            | paper links                                   | note | conference |code|
-| ----------- | ----------------------------------------------------- | --------------------------------------------- | ---- | ----------- |
-|  | Globally and Locally Consistent Image Completion | [ACM](https://dl.acm.org/citation.cfm?id=3073659) |  | SIGGRAPH 2017 |
-| Deepfill v1 | Generative Image Inpainting with Contextual Attention | [arxiv](https://arxiv.org/pdf/1801.07892.pdf) |      |CVPR 2018|
-| Deepfill v2 | Free-Form Image Inpainting with Gated Convolution | [arxiv](https://arxiv.org/pdf/1806.03589.pdf) | ||
-| SC-FEGAN | SC-FEGAN: Face Editing Generative Adversarial Network with User’s Sketch and Color | arxiv | ||
+| ----------- | ----------------------------------------------------- | --------------------------------------------- | ---- | ----------- | ----------- |
+|  | Globally and Locally Consistent Image Completion | [ACM](https://dl.acm.org/citation.cfm?id=3073659) |  | SIGGRAPH 2017 ||
+| Deepfill v1 | Generative Image Inpainting with Contextual Attention | [arxiv](https://arxiv.org/pdf/1801.07892.pdf) |      |CVPR 2018||
+| Deepfill v2 | Free-Form Image Inpainting with Gated Convolution | [arxiv](https://arxiv.org/pdf/1806.03589.pdf) | |||
+| SC-FEGAN | SC-FEGAN: Face Editing Generative Adversarial Network with User’s Sketch and Color | arxiv | |||
+|  | Pluralistic Image Completion | [arxiv](https://arxiv.org/abs/1903.04227) | |||
 
 
 
