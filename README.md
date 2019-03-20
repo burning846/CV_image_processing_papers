@@ -4,13 +4,13 @@
 
 ### Content
 
-* [Image Transfer](# Image Transfer)
-* [Image to Image GAN](# Image to Image GAN)
-* [Image Inpainting](# Image Inpainting)
-* [Noise/Latent GAN](# Noise/Latent GAN)
-* [Text to Image](# Text to Image)
-* [Training Trick](# Training Trick)
-* [Others](# Others)
+* [Image Transfer](#{Image Transfer})
+* [Image to Image GAN](#Image to Image GAN)
+* [Image Inpainting](#Image Inpainting)
+* [Noise/Latent GAN](#Noise/Latent GAN)
+* [Text to Image](#Text to Image)
+* [Training Trick](#Training Trick)
+* [Others](#Others)
 
 
 
