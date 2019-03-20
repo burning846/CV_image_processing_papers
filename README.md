@@ -16,7 +16,7 @@
 
 
 
-### Image Transfer
+## Image Transfer
 
 | nickname              | paper name                                               | paper links                                                  | note                                          | conference | code |
 | --------------------- | -------------------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------- | ---------- | ---------- |
@@ -28,7 +28,9 @@
 
 
 
-### Image to Image GAN
+
+
+## Image to Image GAN
 
 | nickname   | paper name                                                   | paper links                                   | note                           | conference | code |
 | ---------- | ------------------------------------------------------------ | --------------------------------------------- | ------------------------------ | ---------- | ---------- |
@@ -46,7 +48,9 @@
 
 
 
-### Image Inpainting
+
+
+## Image Inpainting
 
 | nickname    | paper name                                            | paper links                                   | note | conference |code|
 | ----------- | ----------------------------------------------------- | --------------------------------------------- | ---- | ----------- | ----------- |
@@ -60,7 +64,9 @@
 
 
 
-### Noise/Latent GAN
+
+
+## Noise/Latent GAN
 | nickname | paper name                                                   | paper links                                   | note | conference | code |
 | -------- | ------------------------------------------------------------ | --------------------------------------------- | ---- | ---------- | ---------- |
 | DCGAN    | Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks | [arxiv](https://arxiv.org/pdf/1511.06434.pdf) |      |            ||
@@ -68,7 +74,9 @@
 
 
 
-### Text to Image
+
+
+## Text to Image
 
 | nickname | paper name                                                   | paper links                                   | note | conference | code |
 | -------- | ------------------------------------------------------------ | --------------------------------------------- | ---- | ---------- | ---------- |
@@ -76,14 +84,18 @@
 
 
 
-### Training Trick
+
+
+## Training Trick
 | nickname | paper name | paper links | note | conference | code |
 | -------- | ---------- | ----------- | ---- | ---------- | ---- |
 | MSGAN | Mode Seeking Generative Adversarial Networks for Diverse Image Synthesis | [arxiv](https://arxiv.org/abs/1903.05628) | Condition GAN | CVPR 2019 |[github](https://github.com/HelenMao/MSGAN)|
 
 
 
-### Others
+
+
+## Others
 
 | nickname | paper name                      | paper links                               | note | conference | code |
 | -------- | ------------------------------- | ----------------------------------------- | ---- | ---------- | ---------- |
