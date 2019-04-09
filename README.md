@@ -56,10 +56,10 @@
 
 | nickname    | paper title                                       | paper link                                   | note | conference |code|
 | ----------- | ----------------------------------------------------- | --------------------------------------------- | ---- | ----------- | ----------- |
-|  | Globally and Locally Consistent Image Completion | [ACM](https://dl.acm.org/citation.cfm?id=3073659) |  | SIGGRAPH 2017 ||
+|  | Globally and Locally Consistent Image Completion | [ACM](https://dl.acm.org/citation.cfm?id=3073659) |  | SIGGRAPH 2017 |[github](https://github.com/satoshiiizuka/siggraph2017_inpainting)|
 | | High-Resolution Image Inpainting using **Multi-Scale** Neural Patch Synthesis | [1611.09969](https://arxiv.org/abs/1611.09969) |  |  ||
 | Shift-Net | Shift-Net: Image Inpainting via Deep Feature Rearrangement | [1801.09392](https://arxiv.org/abs/1801.09392) |  |  ||
-| Deepfill v1 | Generative Image Inpainting with **Contextual Attention** | [1801.07892](https://arxiv.org/pdf/1801.07892.pdf) |      |CVPR 2018||
+| Deepfill v1 | Generative Image Inpainting with **Contextual Attention** | [1801.07892](https://arxiv.org/pdf/1801.07892.pdf) |      |CVPR 2018|[github](https://github.com/JiahuiYu/generative_inpainting)|
 | FaceShop | FaceShop: Deep Sketch-based Face Image Editing | [1804.08972](https://arxiv.org/abs/1804.08972) | |||
 | Deepfill v2 | Free-Form Image Inpainting with **Gated Convolution** | [1806.03589](https://arxiv.org/pdf/1806.03589.pdf) | |||
 | Edge-Connect | EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning | [1901.00212](https://arxiv.org/abs/1901.00212) | ||[github](https://github.com/knazeri/edge-connect)|
