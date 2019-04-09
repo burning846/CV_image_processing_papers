@@ -59,6 +59,7 @@
 | Shift-Net | Shift-Net: Image Inpainting via Deep Feature Rearrangement | [arxiv](https://arxiv.org/abs/1801.09392) |  |  ||
 | Deepfill v1 | Generative Image Inpainting with **Contextual Attention** | [arxiv](https://arxiv.org/pdf/1801.07892.pdf) |      |CVPR 2018||
 | Deepfill v2 | Free-Form Image Inpainting with **Gated Convolution** | [arxiv](https://arxiv.org/pdf/1806.03589.pdf) | |||
+| Edge-Connect | EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning | [arxiv](https://arxiv.org/abs/1901.00212) | ||[github](https://github.com/knazeri/edge-connect)|
 | SC-FEGAN | SC-FEGAN: Face Editing Generative Adversarial Network with **User’s Sketch and Color** | arxiv | |||
 | PICNet | Pluralistic Image Completion | [arxiv](https://arxiv.org/abs/1903.04227) | |CVPR 2019|[github](https://github.com/lyndonzheng/Pluralistic-Inpainting)|
 
