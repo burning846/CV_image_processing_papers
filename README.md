@@ -20,12 +20,13 @@
 
 | nickname              | paper title                                          | paper link                                                  | note                                          | conference | code |
 | --------------------- | -------------------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------- | ---------- | ---------- |
-| Color Transfer | Color Transfer between Images | [IEEE](https://ieeexplore.ieee.org/document/946629) | mean, std |  |  |
+| Color Transfer | Color Transfer between Images | [IEEE](https://ieeexplore.ieee.org/document/946629) | transform mean & std of channels |  |  |
 | Neural Style Transfer | image style transfer using convolutional neural networks | [cv_foundation](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf) | CNN + back propagation | CVPR 2016  ||
 |                       | Deep Photo Style Transfer                                | [1703.07511](https://arxiv.org/abs/1703.07511)          | based on Neural Style Transfer |            ||
+| | Visual Attribute Transfer through Deep Image Analogy | [1705.01088](https://arxiv.org/abs/1705.01088) |  | SIGGRAPH 2017 |[github](https://github.com/msracver/Deep-Image-Analogy)|
 | | Deep Image Harmonization | [1703.00069](https://arxiv.org/abs/1703.00069) |  | ||
 |                       | Deep Painterly Harmonization                             | [1804.03189](https://arxiv.org/abs/1804.03189)          | Neural Style Transfer + Gram matrix + mapping |            ||
-| | Smart, Deep Copy-Paste | [1903.66763](https://arxiv.org/abs/1903.06763) | data augmentation | ||
+| | Counterfactual Visual Explanations | [1904.07451](https://arxiv.org/abs/1904.07451) | generate counterfactual visual explanations and generate corresponding composite images | ICML 2019 (in review) ||
 
 
 
@@ -37,7 +38,7 @@
 | ---------- | ------------------------------------------------------------ | --------------------------------------------- | ------------------------------ | ---------- | ---------- |
 |            | Image Generation from Sketch Constraint Using Contextual GAN | [1711.08972](https://arxiv.org/pdf/1711.08972.pdf) |                                |            ||
 | pix2pix | Image-to-Image Translation with Conditional Adversarial Networks | [1611.07004](https://arxiv.org/abs/1611.07004) | | CVPR 2017 |[github](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)|
-| BicycleGAN | Toward Multimodal Image-to-Image Translation                 | [1711.11586](https://arxiv.org/pdf/1711.11586.pdf) | multimodal, pair data          | NIPS 2017  |[github](https://github.com/junyanz/BicycleGAN)|
+| BicycleGAN | Toward Multimodal Image-to-Image Translation                 | [1711.11586](https://arxiv.org/pdf/1711.11586.pdf) | multimodal, pair data   | NIPS 2017  |[github](https://github.com/junyanz/BicycleGAN)|
 | DiscoGAN   | Learning to Discover Cross-Domain Relations with Generative Adversarial Networks | [1703.05192](https://arxiv.org/abs/1703.05192) |                                | ICML 2017  ||
 | DualGAN | DualGAN: Unsupervised Dual Learning for Image-to-Image Translation | [1704.02510](https://arxiv.org/abs/1704.02510) | | ICCV 2017 |[github](https://github.com/duxingren14/DualGAN)|
 | CycleGAN   | Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks | [1703.10593](https://arxiv.org/pdf/1703.10593.pdf) | unpaired data                  | ICCV 2017  |[github](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)|
@@ -48,6 +49,7 @@
 | MUNIT      | Multimodal Unsupervised Image-to-Image Translation           | [1804.04732](https://arxiv.org/abs/1804.04732) | UNIT + CycleGAN, unpaired data | ECCV 2018  |[github](https://github.com/NVlabs/MUNIT)|
 | DRIT | Diverse Image-to-Image Translation via Disentangled Representations | [1808.00948](https://arxiv.org/abs/1808.00948) |  | ECCV 2018 oral |[github](https://github.com/HsinYingLee/DRIT) & [High resolution version](https://github.com/hytseng0509/DRIT_hr)|
 |  | Compatible and Diverse Fashion Image Inpainting | [1902.01096](https://arxiv.org/abs/1902.01096) | |  ||
+| | Smart, Deep Copy-Paste | [1903.66763](https://arxiv.org/abs/1903.06763) | data augmentation | ||
 
 
 
