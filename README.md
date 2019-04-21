@@ -36,13 +36,14 @@
 | nickname   | paper title                                              | paper link                                   | note                           | conference | code |
 | ---------- | ------------------------------------------------------------ | --------------------------------------------- | ------------------------------ | ---------- | ---------- |
 |            | Image Generation from Sketch Constraint Using Contextual GAN | [1711.08972](https://arxiv.org/pdf/1711.08972.pdf) |                                |            ||
-| pix2pix | Image-to-Image Translation with Conditional Adversarial Networks | [1611.07004](https://arxiv.org/abs/1611.07004) | | CVPR 2017 ||
-| BicycleGAN | Toward Multimodal Image-to-Image Translation                 | [1711.11586](https://arxiv.org/pdf/1711.11586.pdf) | multimodal, pair data          | NIPS 2017  ||
+| pix2pix | Image-to-Image Translation with Conditional Adversarial Networks | [1611.07004](https://arxiv.org/abs/1611.07004) | | CVPR 2017 |[github](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)|
+| BicycleGAN | Toward Multimodal Image-to-Image Translation                 | [1711.11586](https://arxiv.org/pdf/1711.11586.pdf) | multimodal, pair data          | NIPS 2017  |[github](https://github.com/junyanz/BicycleGAN)|
 | DiscoGAN   | Learning to Discover Cross-Domain Relations with Generative Adversarial Networks | [1703.05192](https://arxiv.org/abs/1703.05192) |                                | ICML 2017  ||
-| CycleGAN   | Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks | [1703.10593](https://arxiv.org/pdf/1703.10593.pdf) | unpaired data                  | ICCV 2017  ||
+| DualGAN | DualGAN: Unsupervised Dual Learning for Image-to-Image Translation | [1704.02510](https://arxiv.org/abs/1704.02510) | | ICCV 2017 |[github](https://github.com/duxingren14/DualGAN)|
+| CycleGAN   | Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks | [1703.10593](https://arxiv.org/pdf/1703.10593.pdf) | unpaired data                  | ICCV 2017  |[github](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)|
 | StarGAN    | StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation | [1711.09020](https://arxiv.org/pdf/1711.09020.pdf) | Conditional + CycleGAN, label  | CVPR 2018 oral |[github](https://github.com/yunjey/stargan)|
 | SketchyGAN | SketchyGAN: Towards Diverse and Realistic Sketch to Image Synthesis | [1801.02753](https://arxiv.org/abs/1801.02753) |  | CVPR 2018 |[github](https://github.com/wchen342/SketchyGAN)|
-| GANimation | GANimation: Anatomically-aware Facial Animation from a Single Image | [1807.09251](https://arxiv.org/abs/1807.09251) |                                | ECCV 2018  ||
+| GANimation | GANimation: Anatomically-aware Facial Animation from a Single Image | [1807.09251](https://arxiv.org/abs/1807.09251) |                                | ECCV 2018  |[github](https://github.com/brownvc/ganimorph)|
 | UNIT       | Unsupervised Image-to-Image Translation Networks             | [1703.00848](https://arxiv.org/pdf/1703.00848.pdf) | Encoder + Generator            |            ||
 | MUNIT      | Multimodal Unsupervised Image-to-Image Translation           | [1804.04732](https://arxiv.org/abs/1804.04732) | UNIT + CycleGAN, unpaired data | ECCV 2018  |[github](https://github.com/NVlabs/MUNIT)|
 | DRIT | Diverse Image-to-Image Translation via Disentangled Representations | [1808.00948](https://arxiv.org/abs/1808.00948) |  | ECCV 2018 oral |[github](https://github.com/HsinYingLee/DRIT) & [High resolution version](https://github.com/hytseng0509/DRIT_hr)|
