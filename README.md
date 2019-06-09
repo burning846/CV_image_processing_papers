@@ -103,6 +103,7 @@
 | Conditional GAN | Conditional Generative Adversarial Nets | [1411.1784](https://arxiv.org/abs/1411.1784) |  |  |  |
 | WGAN | Wasserstein GAN | [1701.07875](https://arxiv.org/abs/1701.07875) |  |  |  |
 | WGAN-GP | Improved Training of Wasserstein GANs | [1704.00028](https://arxiv.org/abs/1704.00028) |  |  | [github](https://github.com/igul222/improved_wgan_training) |
+|  | Which Training Methods for GANs do actually Converge? | [1801.04406](https://arxiv.org/abs/1801.04406) | | |  |
 | MSGAN | Mode Seeking Generative Adversarial Networks for Diverse Image Synthesis | [1903.05628](https://arxiv.org/abs/1903.05628) | solved Condition GAN's model collapse | CVPR 2019 |[github](https://github.com/HelenMao/MSGAN)|
 
 

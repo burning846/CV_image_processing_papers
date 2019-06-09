@@ -80,8 +80,13 @@
 ## Training Trick
 
 * [x] Conditional Generative Adversarial Nets
+
 * [ ] Wasserstein GAN
+
 * [ ] Improved Training of Wasserstein GANs
+
+* [ ] Which Training Methods for GANs do actually Converge?
+
 * [ ] Mode Seeking Generative Adversarial Networks for Diverse Image Synthesis
 
 
